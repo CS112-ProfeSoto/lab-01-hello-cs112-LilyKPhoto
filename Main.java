@@ -3,6 +3,7 @@ public class Main
     public static void main(String[] args) 
     {
         System.out.println("Welcome to CS 112!"); // changed for Lab Part 1
+        System.out.println("Profe Soto was here");
 
         Main.voidReturningMethod(); // calls the voidReturningMethod method, needed for Part 2
         // setup for the value-returning method:
